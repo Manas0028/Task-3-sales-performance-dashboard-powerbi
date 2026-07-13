@@ -151,8 +151,6 @@ sales-performance-dashboard-powerbi/
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-**GitHub:** https://github.com/yourusername
-
-**LinkedIn:** https://linkedin.com/in/your-profile
+**GitHub:** https://github.com/Manas0028
 
 ---
